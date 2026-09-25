@@ -1,0 +1,142 @@
+{
+  "version": 1,
+  "approved": [
+    {
+      "path": "webpages/kitchen-remodeling-fort-worth-hub.html",
+      "title": "Kitchen Remodeling Fort Worth",
+      "summary": "Transform your kitchen with AKN Design Group’s full-service design-build remodeling in Fort Worth. We handle layout redesigns, custom cabinets, and structural changes."
+    },
+    {
+      "path": "webpages/hire-general-contractor-dallas-hub.html",
+      "title": "General Contractor Dallas",
+      "summary": "Hire a trusted design-build general contractor in Dallas for your high-end renovation. AKN Design Group offers managed construction, design planning, and permitting."
+    },
+    {
+      "path": "webpages/bathroom-remodel-cost-dallas-fort-worth-hub.html",
+      "title": "Bathroom Remodel Cost DFW",
+      "summary": "Get a professional perspective on bathroom remodel costs in the DFW metroplex. AKN Design Group explains luxury spa features, material selection, and value."
+    },
+    {
+      "path": "webpages/custom-home-improvements-fort-worth-tx-hub.html",
+      "title": "Custom Home Improvements Fort Worth",
+      "summary": "Enhance your living space with custom home improvements from AKN Design Group in Fort Worth. From additions to high-end finishes, we manage every detail."
+    },
+    {
+      "path": "webpages/outdoor-space-renovation-quote-dfw-hub.html",
+      "title": "Outdoor Space Renovation Quote DFW",
+      "summary": "Request a professional outdoor space renovation quote in DFW. We specialize in custom patios, outdoor kitchens, and fire features designed for the Texas climate."
+    },
+    {
+      "path": "webpages/kitchen-modernization-fort-worth-hub.html",
+      "title": "Kitchen Modernization Services Fort Worth",
+      "summary": "Expert kitchen modernization services in Fort Worth. We provide custom design, cabinetry, and smart upgrades to transform your kitchen into a functional, modern space."
+    },
+    {
+      "path": "webpages/full-home-renovation-contractors-dallas-hub.html",
+      "title": "Full Home Renovation Contractors Dallas",
+      "summary": "Leading full home renovation contractors in Dallas. AKN Design Group provides managed design-build services for large-scale home transformations and structural remodels."
+    },
+    {
+      "path": "webpages/adu-construction-fort-worth-prices-hub.html",
+      "title": "ADU Construction Fort Worth Prices",
+      "summary": "Explore the factors influencing ADU construction costs in Fort Worth. AKN Design Group provides managed design-build services for guest houses and backyard cottages."
+    },
+    {
+      "path": "webpages/garage-conversion-contractor-dallas-hub.html",
+      "title": "Garage Conversion Contractor Dallas",
+      "summary": "Hire a professional Dallas garage conversion contractor. AKN Design Group transforms garages into home offices, guest suites, and livable rooms."
+    },
+    {
+      "path": "webpages/home-additions-cost-fort-worth-hub.html",
+      "title": "Home Additions Cost Fort Worth",
+      "summary": "Learn about the investment required for custom home additions in Fort Worth. AKN Design Group offers managed design-build services for home extensions."
+    },
+    {
+      "path": "webpages/whole-home-remodels-dallas-tx-hub.html",
+      "title": "Whole Home Remodels Dallas TX",
+      "summary": "Transform your entire residence with AKN Design Group’s whole-home remodeling services in Dallas. We provide a managed, design-build approach for cohesive renovations."
+    },
+    {
+      "path": "webpages/basement-remodeling-fort-worth-hub.html",
+      "title": "Basement Remodeling Company Fort Worth",
+      "summary": "Transform your basement into a luxury guest suite or home office with AKN Design Group’s managed design-build process in Fort Worth."
+    },
+    {
+      "path": "webpages/outdoor-kitchen-installation-fort-worth-hub.html",
+      "title": "Outdoor Kitchen Installation Fort Worth",
+      "summary": "Create a premier backyard retreat with custom outdoor kitchen installation by AKN Design Group. Professional design and construction for DFW homes."
+    },
+    {
+      "path": "webpages/patio-design-build-dallas-hub.html",
+      "title": "Patio Design and Build Dallas",
+      "summary": "Elevate your outdoor living with a custom patio designed and built by AKN Design Group. Professional design-build services for Dallas homeowners."
+    },
+    {
+      "path": "webpages/window-replacement-fort-worth-hub.html",
+      "title": "Window Replacement Services Fort Worth",
+      "summary": "Improve your home’s efficiency and style with professional window replacement from AKN Design Group. Quality installation for Fort Worth residents."
+    }
+  ],
+  "noindex": [
+    {
+      "path": "webpages/best-bathroom-remodeling-fort-worth-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/new-home-construction-dallas-quote-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/residential-general-contractor-fort-worth-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/design-build-firm-fort-worth-reviews-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/kitchen-renovation-estimate-dallas-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/custom-bathroom-design-fort-worth-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/add-a-room-to-house-fort-worth-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/adu-builders-dallas-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/outdoor-living-space-contractor-fort-worth-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/luxury-bathroom-remodel-fort-worth-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/home-remodeling-company-fort-worth-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/kitchen-island-installation-dallas-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/guest-house-construction-fort-worth-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/residential-design-build-dallas-hub.html",
+      "status": "needs_evidence"
+    },
+    {
+      "path": "webpages/full-kitchen-renovations-fort-worth-hub.html",
+      "status": "needs_evidence"
+    }
+  ]
+}
