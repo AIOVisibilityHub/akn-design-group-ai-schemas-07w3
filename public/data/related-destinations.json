@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-09-25T22:52:07.183Z",
+  "generatedAt": "2026-09-25T22:52:39.921Z",
   "name": "Cross-Destination Index",
   "aliases": [
     "Authority Network",
@@ -31,12 +31,18 @@
       "platform": "github",
       "label": "GitHub repository",
       "url": "https://github.com/AIOVisibilityHub/akn-design-group-ai-schemas-07w3"
+    },
+    {
+      "role": "mirror-pages",
+      "platform": "github",
+      "label": "GitHub — AI Data Hub mirror",
+      "url": "https://aiovisibilityhub.github.io/akn-design-group-ai-schemas-07w3/ai-data.html"
     }
   ],
   "destinations": {
     "github": {
       "url": "https://github.com/AIOVisibilityHub/akn-design-group-ai-schemas-07w3",
-      "pagesUrl": "",
+      "pagesUrl": "https://aiovisibilityhub.github.io/akn-design-group-ai-schemas-07w3/",
       "repo": "AIOVisibilityHub/akn-design-group-ai-schemas-07w3"
     }
   }

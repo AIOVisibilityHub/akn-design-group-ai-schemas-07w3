@@ -23,6 +23,7 @@ Canonical AI Data Package for AKN Design Group.
 - [canonical] AKN Design Group — canonical website — https://akndesigngroup.aiovisibility.net
 - [ai-data-hub] AKN Design Group — AI Data Hub — https://akndesigngroup.aiovisibility.net/ai-data.html
 - [mirror-repo] GitHub repository — https://github.com/AIOVisibilityHub/akn-design-group-ai-schemas-07w3
+- [mirror-pages] GitHub — AI Data Hub mirror — https://aiovisibilityhub.github.io/akn-design-group-ai-schemas-07w3/ai-data.html
 
 Purpose: transparent source discovery, entity consistency, mirror verification, and AI crawler navigation. Not a link wheel. Source of truth: related-destinations.json.
 

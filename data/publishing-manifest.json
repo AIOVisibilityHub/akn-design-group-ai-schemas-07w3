@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-09-25T22:52:07.211Z",
+  "generatedAt": "2026-09-25T22:52:39.953Z",
   "client": {
     "name": "AKN Design Group",
     "canonicalUrl": "https://akndesigngroup.aiovisibility.net",
@@ -324,7 +324,7 @@
   },
   "package": {
     "totalFiles": 2689,
-    "totalBytes": 12019068,
+    "totalBytes": 11937045,
     "stats": {
       "faqs": 2298,
       "helpArticles": 331,
@@ -13675,77 +13675,77 @@
     "public": [
       {
         "path": "index.html",
-        "bytes": 20340,
+        "bytes": 14629,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 89132,
+        "bytes": 83569,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 209132,
+        "bytes": 203422,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 18097,
+        "bytes": 12645,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 1924149,
+        "bytes": 1918683,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles.html",
-        "bytes": 19625,
+        "bytes": 14164,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "case-studies.html",
-        "bytes": 45678,
+        "bytes": 40141,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "team-members.html",
-        "bytes": 29504,
+        "bytes": 24090,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "web-pages.html",
-        "bytes": 26117,
+        "bytes": 20625,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/getting-started.html",
-        "bytes": 225169,
+        "bytes": 219635,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/services-and-process.html",
-        "bytes": 245529,
+        "bytes": 239925,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/planning-and-preparation.html",
-        "bytes": 566158,
+        "bytes": 560583,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/pricing-and-estimates.html",
-        "bytes": 237264,
+        "bytes": 231653,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/local-service-guidance.html",
-        "bytes": 33010,
+        "bytes": 27505,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/care-and-maintenance.html",
-        "bytes": 34456,
+        "bytes": 28843,
         "purpose": "LLM-optimized public page"
       }
     ],
@@ -13757,7 +13757,7 @@
       },
       {
         "path": "llms.txt",
-        "bytes": 8263,
+        "bytes": 8395,
         "purpose": "LLM hint"
       },
       {
@@ -13777,32 +13777,32 @@
       },
       {
         "path": "related-destinations.json",
-        "bytes": 1380,
+        "bytes": 1663,
         "purpose": "Cross-Destination Index (Related AI Data Sources)"
       },
       {
         "path": "ai-data.html",
-        "bytes": 1352759,
+        "bytes": 1353041,
         "purpose": "Master AI data index"
       },
       {
         "path": "llms-full.txt",
-        "bytes": 371767,
+        "bytes": 371899,
         "purpose": "Extended LLM context"
       },
       {
         "path": "llms-full.md",
-        "bytes": 371767,
+        "bytes": 371899,
         "purpose": "Extended LLM context (markdown)"
       },
       {
         "path": "full-context.md",
-        "bytes": 8286,
+        "bytes": 8418,
         "purpose": "Full markdown context"
       },
       {
         "path": "README.md",
-        "bytes": 491480,
+        "bytes": 491612,
         "purpose": "Repository README"
       },
       {
@@ -13820,7 +13820,7 @@
   "destinations": {
     "github": {
       "url": "https://github.com/AIOVisibilityHub/akn-design-group-ai-schemas-07w3",
-      "pagesUrl": "",
+      "pagesUrl": "https://aiovisibilityhub.github.io/akn-design-group-ai-schemas-07w3/",
       "repo": "AIOVisibilityHub/akn-design-group-ai-schemas-07w3"
     }
   }
